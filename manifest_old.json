@@ -3,8 +3,9 @@
   "short_name": "Еда",
   "icons": [
     {
-      "src": "https://yastatic.net/s3/eda-front/prod-www/assets/logo-2b8cf6236b94ab214aa24b00ce106d16.svg",
-      "type": "image/svg+xml"
+      "src": "https://yastat.net/s3/tap/lavka/v0.43.0/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "lang": "ru",
